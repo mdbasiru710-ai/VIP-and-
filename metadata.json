@@ -1,0 +1,6 @@
+{
+  "name": "AURA VIP - AI Big Small Predictor",
+  "description": "Premium VIP AI-powered statistical analysis, live Big/Small signals, Markov probability models, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
